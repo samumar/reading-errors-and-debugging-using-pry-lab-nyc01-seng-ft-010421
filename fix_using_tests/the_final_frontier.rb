@@ -1,6 +1,6 @@
 # don't forget to add: require 'pry'
 
 
-def engage(star_date)
+def engage
   puts "/Captain's Log, star date /"
 end

@@ -6,6 +6,5 @@ def engage(star_date)
 end
 
 def engage
-  date = generate_star_date
   puts "Captain's Log, star date"
 end
